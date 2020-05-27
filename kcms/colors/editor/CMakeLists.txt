@@ -25,6 +25,7 @@ target_link_libraries(kcolorschemeeditor
     KF5::I18n
     KF5::CoreAddons
     KF5::NewStuff
+    KF5::QuickAddons
     KF5::WindowSystem
 )
 

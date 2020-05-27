@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="contents/ui/main.qml">./package/contents/ui/main.qml</file>
+        <file alias="metadata.desktop">./package/metadata.desktop</file>
+    </qresource>
+</RCC>
